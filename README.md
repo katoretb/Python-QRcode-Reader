@@ -1,6 +1,8 @@
-#Project
+# Project
+
 Simple python QR code reader
-##Library
+
+## Library
 ```
 opencv2
 ```
